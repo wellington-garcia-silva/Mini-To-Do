@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniTodo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93eaf34112a22184fc2bcf06128b80ddd413c50c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniTodo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniTodo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
